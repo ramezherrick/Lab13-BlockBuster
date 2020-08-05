@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\Lab13-BlockBuster\obj\Debug\netcoreapp3.1\Lab13-BlockBuster.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\Lab13-BlockBuster\obj\Debug\netcoreapp3.1\Lab13-BlockBuster.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\Lab13-BlockBuster\obj\Debug\netcoreapp3.1\Lab13-BlockBuster.AssemblyInfo.cs
+C:\Users\herri\source\repos\Lab13-BlockBuster\obj\Debug\netcoreapp3.1\Lab13-BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\Lab13-BlockBuster\bin\Debug\netcoreapp3.1\Lab13-BlockBuster.exe
+C:\Users\herri\source\repos\Lab13-BlockBuster\bin\Debug\netcoreapp3.1\Lab13-BlockBuster.deps.json
+C:\Users\herri\source\repos\Lab13-BlockBuster\bin\Debug\netcoreapp3.1\Lab13-BlockBuster.runtimeconfig.json
+C:\Users\herri\source\repos\Lab13-BlockBuster\bin\Debug\netcoreapp3.1\Lab13-BlockBuster.runtimeconfig.dev.json
+C:\Users\herri\source\repos\Lab13-BlockBuster\bin\Debug\netcoreapp3.1\Lab13-BlockBuster.dll
+C:\Users\herri\source\repos\Lab13-BlockBuster\bin\Debug\netcoreapp3.1\Lab13-BlockBuster.pdb
+C:\Users\herri\source\repos\Lab13-BlockBuster\obj\Debug\netcoreapp3.1\Lab13-BlockBuster.dll
+C:\Users\herri\source\repos\Lab13-BlockBuster\obj\Debug\netcoreapp3.1\Lab13-BlockBuster.pdb
+C:\Users\herri\source\repos\Lab13-BlockBuster\obj\Debug\netcoreapp3.1\Lab13-BlockBuster.genruntimeconfig.cache
